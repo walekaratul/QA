@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-16T11:10:29 IST" name="Default suite" finished-at="2025-10-16T11:11:05 IST" duration-ms="35529">
+    <groups>
+    </groups>
+    <test started-at="2025-10-16T11:10:29 IST" name="Default test" finished-at="2025-10-16T11:11:05 IST" duration-ms="35529">
+      <class name="Test_Package.Test_Class_Searching_Sorting_MM">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:Test_Package.Test_Class_Searching_Sorting_MM@1f2586d6]" started-at="2025-10-16T11:10:29 IST" name="openbrowser" finished-at="2025-10-16T11:10:33 IST" duration-ms="3629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="loginfunction()[pri:0, instance:Test_Package.Test_Class_Searching_Sorting_MM@1f2586d6]" started-at="2025-10-16T11:10:33 IST" name="loginfunction" finished-at="2025-10-16T11:10:39 IST" duration-ms="6057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="Common_Search_Function()[pri:1, instance:Test_Package.Test_Class_Searching_Sorting_MM@1f2586d6]" started-at="2025-10-16T11:10:39 IST" name="Common_Search_Function" finished-at="2025-10-16T11:11:05 IST" duration-ms="25792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Common_Search_Function -->
+      </class> <!-- Test_Package.Test_Class_Searching_Sorting_MM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
